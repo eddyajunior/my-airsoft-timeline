@@ -1,0 +1,12 @@
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\bin\Debug\net7.0\AirsoftTimeline.Application.deps.json
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\bin\Debug\net7.0\AirsoftTimeline.Application.dll
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\bin\Debug\net7.0\AirsoftTimeline.Application.pdb
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.csproj.AssemblyReference.cache
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.AssemblyInfoInputs.cache
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.AssemblyInfo.cs
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.csproj.CoreCompileInputs.cache
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.dll
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\refint\AirsoftTimeline.Application.dll
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\AirsoftTimeline.Application.pdb
+D:\github\my-airsoft-timeline\src\AirsoftTimeline.Application\obj\Debug\net7.0\ref\AirsoftTimeline.Application.dll

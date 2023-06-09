@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OiE7g91B3cOBguTkccUYILqXORZ9yt/Nh87zFAUnWKc=",
+  "Source": "AirsoftTimeline.API",
+  "BasePath": "_content/AirsoftTimeline.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

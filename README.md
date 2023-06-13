@@ -7,6 +7,8 @@ Projeto pessoal para cadastro e exibição de informações sobre os jogos de ai
 * Cypress <br>
 * .Net Core <br> 
 * xUnit <br>
+* WebAPI
+* SOLID
 * DDD
 
 ## Estrutura do Projeto
@@ -21,6 +23,6 @@ Projeto pessoal para cadastro e exibição de informações sobre os jogos de ai
 ```
 
 ## Releases
-| Versão | Data | Descrição | Status |
-|---|---|---|---|
-| 0.0.0 | 13/06/2023 | Organização/Definição do Projeto | Em desenvolvimento |
+| Versão | Data | Descrição |
+|---|---|---|
+| 0.0.0 | 13/06/2023 | Organização/Definição do Projeto | 

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lBK0avWb2dETshEyHKw5DM17ht5wNdCj/9Mm1ErMKg9JWagqfIj0TBSHksI4tPt9YW5ky8EbZQHDrggFpSRVSw==",
+  "dgSpecHash": "X5hIM7Wx7atjqjKfHbO2A28CGx4/qyW4EtPDd1vEO1REvuU6jX75v3kcHq46PeCx3onVsHmSf/SLy//4BN6Uag==",
   "success": true,
-  "projectFilePath": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

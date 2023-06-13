@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj": {}
+    "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj": {}
   },
   "projects": {
-    "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj": {
+    "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj",
+        "projectUniqueName": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj",
         "projectName": "AirsoftTimeline.Application",
-        "projectPath": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj",
+        "projectPath": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\AirsoftTimeline.Application.csproj",
         "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\obj\\",
+        "outputPath": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

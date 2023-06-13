@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj": {}
+    "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj": {}
   },
   "projects": {
-    "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj": {
+    "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj",
+        "projectUniqueName": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj",
         "projectName": "AirsoftTimeline.API",
-        "projectPath": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj",
+        "projectPath": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\AirsoftTimeline.API.csproj",
         "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\obj\\",
+        "outputPath": "d:\\github\\my-airsoft-timeline\\src\\AirsoftTimeline.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
